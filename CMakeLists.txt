@@ -3,4 +3,4 @@ project(guia1_ej223 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(guia1_ej223 main.c)
+add_executable(guia1_ej223 main.c List.c List.h)
